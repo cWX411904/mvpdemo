@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--主色调-->
+    <color name="colorPrimary">#1cc29e</color>
+    <color name="colorPrimaryDark">@color/colorPrimary</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+
+    <color name="text_color_19C29B">#19C29B</color>
+
+    <!--<color name="text_color_FFFFFF">#FFFFFF</color>-->
+    <!--<color name="text_color_333333">#333333</color>-->
+    <!--<color name="text_color_666666">#666666</color>-->
+    <!--<color name="text_color_C57D00">#C57D00</color>-->
+    <!--<color name="text_color_F1FF00">#F1FF00</color>-->
+    <!--<color name="text_color_999999">#999999</color>-->
+    <!--<color name="text_color_2A2A2A">#2A2A2A</color>-->
+    <!--<color name="text_color_0762B6">#0762B6</color>-->
+    <!--<color name="text_color_BDBDBD">#BDBDBD</color>-->
+    <!--<color name="text_color_B1B1B1">#B1B1B1</color>-->
+    <!--<color name="text_color_BCBCBC">#BCBCBC</color>-->
+
+
+    <!--<color name="bg_color_E92F91">#E92F91</color>-->
+    <!--<color name="bg_color_1590ED">#1590ED</color>-->
+    <!--<color name="bg_color_DDDDDD">#DDDDDD</color>-->
+    <!--<color name="bg_color_3395FF">#3395FF</color>-->
+    <!--<color name="bg_color_BFBFBF">#BFBFBF</color>-->
+    <!--<color name="bg_color_F1F1F1">#F1F1F1</color>-->
+    <!--<color name="bg_color_F5F5F5">#F5F5F5</color>-->
+    <!--<color name="bg_color_F11616">#F11616</color>-->
+    <!--<color name="bg_color_EEEEEE">#EEEEEE</color>-->
+    <!--<color name="bg_color_F4F4F4">#F4F4F4</color>-->
+    <!--<color name="bg_color_F8F8F8">#F8F8F8</color>-->
+    <!--<color name="bg_color_0BA5FB">#0BA5FB</color>-->
+    <!--<color name="bg_color_DBDBDB">#DBDBDB</color>-->
+    <!--<color name="bg_color_D8D8D8">#D8D8D8</color>-->
+    <!--<color name="bg_color_000000">#60000000</color>-->
+    <!--<color name="line_color_CFCFCF">#CFCFCF</color>-->
+    <!--<color name="line_color_E4E4E4">#E4E4E4</color>-->
+    <!--<color name="line_color_EFEFEF">#EFEFEF</color>-->
+
+</resources>
